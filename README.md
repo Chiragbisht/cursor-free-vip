@@ -1,6 +1,7 @@
 # Cursor Free VIP (Windows Executable)
 
 This repository contains the executable version of the [Cursor Free VIP](https://github.com/yeongpin/cursor-free-vip) project version (v1.9.02).
+This was the last version before they removed adding new emails functionality in the script.
 
 ## Disclaimer
 
