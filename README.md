@@ -26,5 +26,5 @@ This tool allows you to reset Cursor AI's machine ID, bypassing the "Too many fr
 
 - This executable is provided for educational purposes only
 - Use at your own risk
-- I recommend reviewing the source code at the original repository if you have security concerns
+- I recommend reviewing the source code at the original [repository](https://github.com/yeongpin/cursor-free-vip) if you have security concerns
 
