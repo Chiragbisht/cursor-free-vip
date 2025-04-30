@@ -11,7 +11,7 @@ This was the last version before they removed adding new emails functionality in
 
 1. Download the ZIP file from the releases page
 2. Extract the ZIP file
-3. Run the executable file
+3. Run the executable file with administrator permission
 4. If Windows Defender detects it, click "Run anyway" (Windows SmartScreen may flag it as it's not a widely downloaded application)
 5. When asked to update to the latest version, click "N" to decline
 6. Now you can create new emails and use Cursor AI without limitations
