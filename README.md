@@ -16,6 +16,8 @@ This was the last version before they removed adding new emails functionality in
 5. When asked to update to the latest version, click "N" to decline
 6. Now you can create new emails and use Cursor AI without limitations
 
+7. If you encounter any error ->Reset Machine ID ->Disable cursor auto update ->reset cursor ->Bypass token limit
+
 ## Purpose
 
 This tool allows you to reset Cursor AI's machine ID, bypassing the "Too many free trial accounts used on this machine" limitation.
